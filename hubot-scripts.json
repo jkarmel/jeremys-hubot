@@ -1,1 +1,17 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee","46elks.coffee"]
+[
+"redis-brain.coffee", 
+"tweet.coffee", 
+"9gag.coffee",
+"abstract.coffee",
+"animal.coffee",
+"archer.coffee",
+"ascii.coffee",
+"aww.coffee",
+"beerme.coffee",
+"brewerydb.coffee",
+"carlton.coffee",
+"chat.coffee",
+"cheer.coffee",
+"cowsay.coffee",
+"dealwithit.coffee",
+"shipit.coffee"]
