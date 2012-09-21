@@ -23,7 +23,8 @@
     "hubot": "2.2.0",
     "hubot-scripts": ">=2.0.8",
     "optparse": "1.0.3",
-    "hubot-hipchat": ">=1.0.2"
+    "hubot-hipchat": ">=1.0.2",
+    "coffee-script": ">=0.0.1"
   }
 }
 
